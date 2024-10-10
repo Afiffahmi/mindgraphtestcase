@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700656217647",
+    "project_id": "mind-graph-test-case-hazimzamr",
+    "storage_bucket": "mind-graph-test-case-hazimzamr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700656217647:android:2e600f28de3a632c42a0da",
+        "android_client_info": {
+          "package_name": "com.hazim.mindgraphtestcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700656217647-t053jv6c04ue2ft6tvbmo98it4mlf66m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazim.mindgraphtestcase",
+            "certificate_hash": "f608a2da4163af814652e3047715b75bd8e81542"
+          }
+        },
+        {
+          "client_id": "700656217647-vamakamruj871vj9kkuav94l6c03rlqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB06w3Xsrm9xrDm90AhTSFB4Bhq-tM9Tjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700656217647-n3e3d8vpmghje2op0d9j0gu7iufcf5af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

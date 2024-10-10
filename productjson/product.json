@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 29.99,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 19.99,
+      "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-madebymath-90946.jpg&fm=jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 39.99,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "price": 25.99,
+      "imageUrl": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "price": 12.99,
+      "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-madebymath-90946.jpg&fm=jpg"
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "price": 49.99,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 7,
+      "name": "Product G",
+      "price": 34.99,
+      "imageUrl": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Product H",
+      "price": 22.49,
+      "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-madebymath-90946.jpg&fm=jpg"
+    },
+    {
+      "id": 9,
+      "name": "Product I",
+      "price": 18.75,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 10,
+      "name": "Product J",
+      "price": 27.5,
+      "imageUrl": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Product K",
+      "price": 31.99,
+      "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-madebymath-90946.jpg&fm=jpg"
+    },
+    {
+      "id": 12,
+      "name": "Product L",
+      "price": 15.99,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 13,
+      "name": "Product M",
+      "price": 45.0,
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fproduct&psig=AOvVaw3V759XPxQWA7CfMOYppqoa&ust=1728528891115000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCkmIamgIkDFQAAAAAdAAAAABBE"
+    },
+    {
+      "id": 14,
+      "name": "Product N",
+      "price": 38.49,
+      "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-madebymath-90946.jpg&fm=jpg"
+    },
+    {
+      "id": 15,
+      "name": "Product O",
+      "price": 41.99,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 16,
+      "name": "Product P",
+      "price": 24.99,
+      "imageUrl": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Product Q",
+      "price": 33.75,
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fproduct&psig=AOvVaw3V759XPxQWA7CfMOYppqoa&ust=1728528891115000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCkmIamgIkDFQAAAAAdAAAAABBE"
+    },
+    {
+      "id": 18,
+      "name": "Product R",
+      "price": 19.5,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 19,
+      "name": "Product S",
+      "price": 14.99,
+      "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-madebymath-90946.jpg&fm=jpg"
+    },
+    {
+      "id": 20,
+      "name": "Product T",
+      "price": 37.99,
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fproduct&psig=AOvVaw3V759XPxQWA7CfMOYppqoa&ust=1728528891115000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCkmIamgIkDFQAAAAAdAAAAABBE"
+    },
+    {
+      "id": 21,
+      "name": "Product U",
+      "price": 42.49,
+      "imageUrl": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Product V",
+      "price": 48.0,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 23,
+      "name": "Product W",
+      "price": 21.99,
+      "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-madebymath-90946.jpg&fm=jpg"
+    },
+    {
+      "id": 24,
+      "name": "Product X",
+      "price": 29.49,
+      "imageUrl": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Product Y",
+      "price": 32.99,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 26,
+      "name": "Product Z",
+      "price": 50.0,
+      "imageUrl": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg"
+    }
+  ]
+}
